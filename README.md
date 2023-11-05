@@ -1,5 +1,7 @@
 <h1> How to create a resource group in azure</h1>
 
+In this part of the lab, I will show how the steps that i used to making an azure virtual group in the azure platform.
+
 <br />
 
 
